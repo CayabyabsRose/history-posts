@@ -6,10 +6,12 @@ HTML files will be split based on year.
 
 ## Note
 
-This is not intended to be an accurate nor credible source for information, this is basically for trivia purposes. Most information was taken from [wikipedia] or from [YouTube].
+This is not intended to be an accurate nor credible source for information, this is basically for trivia purposes. Most information was taken from [wikipedia]() or from [YouTube]().
 
 Contributors:
-ScarlettMi and me
+[ScarlettMi]() and [me]()
 
-[wikipedia] - https://en.wikipedia.org
-[YouTube] - https://www.youtube.com
+[wikipedia]: https://en.wikipedia.org
+[YouTube]: https://www.youtube.com
+[ScarlettMi]: http://intensedebate.com/ScarlettMi
+[me]: http://intensedebate.com/people/OcamposMoon
