@@ -11,5 +11,5 @@ This is not intended to be an accurate nor credible source for information, this
 Contributors:
 ScarlettMi and me
 
-[wikipedia.org] - https://en.wikipedia.org
-[Youtube] - https://www.youtube.com
+[wikipedia] - https://en.wikipedia.org
+[YouTube] - https://www.youtube.com
