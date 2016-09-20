@@ -12,7 +12,7 @@ Contributors:
 - [ScarlettMi][] 
 - [me][]
 
-[Mark Watches 'Star Trek']: http://markwatches.net/reviews/star-trek
+[Mark Watches 'Star Trek']: http://markwatches.net/reviews/category/star-trek
 [wikipedia]: https://en.wikipedia.org/
 [YouTube]: https://www.youtube.com/
 [ScarlettMi]: http://intensedebate.com/people/ScarlettMi/
